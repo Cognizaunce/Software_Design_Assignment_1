@@ -2,7 +2,10 @@
 Julian Olano Medina - Software Design and Architecture Assignment 1, Winter 2024.
 # Grocery Store Product Factory
 This project implements a design pattern assignment using both the Abstract Factory Pattern and the Factory Method Pattern. The goal is to create different grocery products (such as Bananas and Apples), set their prices after creation by reading from a data file, and demonstrate the functionality with a test driver.
-![Updated UML Diagram](<docs\Updated UML Diagram.png>)
+
+![Updated UML Diagram](docs/Updated%20UML%20Diagram.png)
+
+
 # Project Structure
 This is how my project is structured:
 
@@ -37,4 +40,5 @@ This folder contains the images and graphics used for this readme file
 Test driver to demonstrate that the code works
 using 2 examples of a product such as Bananas and Apples.
 ### Sample Output
-![Sample Output](<docs\Proof Code Works.png>)
+
+![Sample Output](docs/Proof%20Code%20Works.png)
