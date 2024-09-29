@@ -1,16 +1,16 @@
 # Software_Design_Assignment_1
 Julian Olano Medina - Software Design and Architecture Assignment 1, Winter 2024.
 # Grocery Store Product Factory
-This project implements a design pattern assignment using both the Abstract Factory Pattern and the Factory Method Pattern. The goal is to create different grocery products (such as Bananas and Apples), set their prices after creation by reading from a data file, and demonstrate the functionality with a test driver.
+This project implements a design pattern assignment using the Abstract Factory Pattern and the Factory Method Pattern. The goal is to create different grocery products (such as Bananas and Apples), set their prices after creation by reading from a data file, and demonstrate the functionality with a test driver.
 
 ![Updated UML Diagram](docs/Updated%20UML%20Diagram.png)
-
+![image](https://github.com/user-attachments/assets/559a8c0c-c4c1-4fb1-95a5-11293028f471)
 
 # Project Structure
 This is how my project is structured:
 
 ### **1. `/`**
-The root of the project has all the relevent assignment files
+The root of the project has all the relevant assignment files
 
 - **`GroceryProductFactory.java`**: 
   - Defines the abstract factory interface that creates products and sets their prices.
